@@ -1,4 +1,2 @@
-build/bin
-build/CMakeFiles
-build/libs
+build
 .DS_Store
